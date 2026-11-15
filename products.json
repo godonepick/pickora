@@ -1,4 +1,47 @@
 {
   "updated": "2026-11-15",
-  "items": []
+  "items": [
+    {
+      "code": "P0001",
+      "name": "로렌드 초강력 흡착식 무타공 욕실선반, 1개, 다크 그레이",
+      "price": 13900,
+      "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/ed53/77c6f854e29e7533242319c62ddc958896a79d17bfb3fd3c9b3f6d77e12c.jpg",
+      "link": "https://link.coupang.com/a/iHjfyKEFI4",
+      "date": "2026-11-15",
+      "category": "욕실",
+      "tags": [
+        "욕실선반",
+        "무타공",
+        "수납"
+      ]
+    },
+    {
+      "code": "P0002",
+      "name": "알뜰홈즈 무타공 접착식 욕실 알루미늄 수건걸이 50cm, 화이트, 1개",
+      "price": 8090,
+      "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/f69c/25fb58c870280541cd01cb677eb33e45ee1b38522ec25bbd59063747f065.png",
+      "link": "https://link.coupang.com/a/iHjhAV7UaW",
+      "date": "2026-11-15",
+      "category": "욕실",
+      "tags": [
+        "수건걸이",
+        "무타공",
+        "욕실"
+      ]
+    },
+    {
+      "code": "P0003",
+      "name": "삶의소품 무타공 스텐 SUS304 슬리퍼 거치대 3M접착식, 스텐(2인용), 1개",
+      "price": 10900,
+      "image": "https://t1c.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0ab9/c527fd156eddb1f8104407602cf777ffaa5d752c6fdd5323441e0819dd19.jpg",
+      "link": "https://link.coupang.com/a/iHjih16Yay",
+      "date": "2026-11-15",
+      "category": "욕실",
+      "tags": [
+        "슬리퍼거치대",
+        "욕실화",
+        "무타공"
+      ]
+    }
+  ]
 }
