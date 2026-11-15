@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PICKORA 픽코라 | 소개한 상품 모아보기</title>
+<meta name="description" content="PICKORA가 소개한 모든 상품을 번호와 이름으로 검색하세요.">
+<style>
+:root{--bg:#f7f1e6;--card:#fff;--ink:#1c1b1a;--sub:#5d564b;--gold:#c9a35f;--gold-ink:#7d5c1f;--line:#e4d9c4}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic',sans-serif;font-size:19px;line-height:1.55;word-break:keep-all}
+header{background:var(--ink);color:#f7f1e6;padding:28px 16px 24px;text-align:center}
+header .brand{color:var(--gold);font-weight:800;letter-spacing:.3em;font-size:26px}
+header p{margin-top:6px;font-size:17px;color:#d9cfbd}
+main{max-width:720px;margin:0 auto;padding:16px}
+.search{position:sticky;top:0;background:var(--bg);padding:12px 0;z-index:2}
+.search input{width:100%;font-size:22px;padding:16px 18px;border:2px solid var(--ink);border-radius:14px;background:#fff;color:var(--ink)}
+.search input:focus{outline:3px solid var(--gold);outline-offset:1px}
+.chips{display:flex;gap:8px;overflow-x:auto;padding:10px 0 2px}
+.chips button{flex:none;font-size:18px;font-weight:700;padding:10px 16px;border-radius:999px;border:2px solid var(--line);background:#fff;color:var(--ink);cursor:pointer}
+.chips button[aria-pressed=true]{background:var(--ink);color:var(--gold);border-color:var(--ink)}
+.count{font-size:17px;color:var(--sub);margin:8px 2px}
+.item{display:flex;gap:14px;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px;margin-top:12px;align-items:center}
+.item img{width:112px;height:112px;object-fit:contain;border-radius:10px;background:#fff;flex:none}
+.item .body{flex:1;min-width:0}
+.code{display:inline-block;background:var(--gold);color:var(--ink);font-weight:800;font-size:16px;border-radius:8px;padding:2px 10px}
+.date{font-size:15px;color:var(--sub);margin-left:8px}
+.name{font-size:20px;font-weight:700;margin-top:6px;line-height:1.4}
+.price{font-size:18px;color:var(--gold-ink);font-weight:800;margin-top:2px}
+.buy{display:block;text-align:center;margin-top:10px;background:var(--ink);color:#f7f1e6;font-size:19px;font-weight:800;padding:12px;border-radius:12px;text-decoration:none}
+.buy:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+.empty{text-align:center;padding:48px 0;font-size:20px;color:var(--sub)}
+footer{max-width:720px;margin:24px auto 40px;padding:0 16px;font-size:16px;color:var(--sub)}
+@media (max-width:420px){.item img{width:92px;height:92px}}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">PICKORA</div>
+  <p>사진 속 번호나 상품 이름으로 찾아보세요</p>
+</header>
+<main>
+  <div class="search">
+    <input id="q" type="search" inputmode="search" placeholder="번호(P0001) 또는 상품명 검색" aria-label="상품 검색" autocomplete="off">
+    <div class="chips" id="chips"></div>
+  </div>
+  <div class="count" id="count" aria-live="polite"></div>
+  <div id="list"></div>
+</main>
+<footer>
+  이 페이지는 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.<br>
+  가격은 소개한 날 기준이며 실제 판매가는 달라질 수 있습니다.
+</footer>
+<script>
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+let items = [], cat = '전체';
+const norm = (s) => String(s || '').toLowerCase().replace(/\s+/g, '');
+function render() {
+  const q = norm($('q').value);
+  const rows = items.filter((p) => (cat === '전체' || p.category === cat) &&
+    (!q || norm(p.code).includes(q) || norm(p.name).includes(q) || (p.tags || []).some((t) => norm(t).includes(q))));
+  $('count').textContent = `${rows.length}개 상품`;
+  $('list').innerHTML = rows.length ? rows.map((p) => `
+    <article class="item">
+      ${p.image ? `<img src="${esc(p.image)}" alt="" loading="lazy" referrerpolicy="no-referrer">` : ''}
+      <div class="body">
+        <span class="code">${esc(p.code)}</span><span class="date">${esc(p.date || '')}</span>
+        <div class="name">${esc(p.name)}</div>
+        ${p.price ? `<div class="price">${Number(p.price).toLocaleString('ko-KR')}원</div>` : ''}
+        <a class="buy" href="${esc(p.link)}" target="_blank" rel="noopener sponsored">쿠팡에서 보기</a>
+      </div>
+    </article>`).join('') : '<div class="empty">찾는 상품이 없어요.<br>번호를 다시 확인해 주세요.</div>';
+}
+function chips() {
+  const cats = ['전체', ...new Set(items.map((p) => p.category).filter(Boolean))];
+  $('chips').innerHTML = cats.length > 2 ? cats.map((c) => `<button type="button" aria-pressed="${c === cat}">${esc(c)}</button>`).join('') : '';
+}
+$('chips').addEventListener('click', (e) => { if (e.target.tagName === 'BUTTON') { cat = e.target.textContent; chips(); render(); } });
+$('q').addEventListener('input', render);
+fetch('products.json?v=' + Date.now()).then((r) => r.json()).then((d) => {
+  items = (d.items || []).slice().sort((a, b) => (b.date || '').localeCompare(a.date || '') || b.code.localeCompare(a.code));
+  const init = new URLSearchParams(location.search).get('q');
+  if (init) $('q').value = init;
+  chips(); render();
+}).catch(() => { $('list').innerHTML = '<div class="empty">목록을 불러오지 못했어요. 잠시 후 다시 시도해 주세요.</div>'; });
+</script>
+</body>
+</html>
