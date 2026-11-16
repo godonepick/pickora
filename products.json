@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "items": [
     {
       "code": "P0001",
@@ -41,6 +41,48 @@
         "슬리퍼거치대",
         "욕실화",
         "무타공"
+      ]
+    },
+    {
+      "code": "P0004",
+      "name": "베베숲 오리진 유아물티슈 캡형, 50g, 100매, 10개",
+      "price": 13400,
+      "image": "https://t5c.coupangcdn.com/thumbnails/remote/492x492ex/image/1025_amir_coupang_oct_80k/ca12/9b88a0325a006bc9b76a6d37ced4db41f68d8e9a785b938f18ec4e261202.jpg",
+      "link": "https://link.coupang.com/a/iI5rifjiX6",
+      "date": "2026-11-16",
+      "category": "육아용품",
+      "tags": [
+        "아기물티슈",
+        "캡형",
+        "외출"
+      ]
+    },
+    {
+      "code": "P0005",
+      "name": "유비맘 다용도 멀티 파우치, 블랙",
+      "price": 7980,
+      "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/11/17/17/5/8cd83b44-3e27-4cb3-adfb-fb7f71ea290c.jpg",
+      "link": "https://link.coupang.com/a/iI5tz1Fa32",
+      "date": "2026-11-16",
+      "category": "육아용품",
+      "tags": [
+        "파우치",
+        "기저귀가방",
+        "수납"
+      ]
+    },
+    {
+      "code": "P0006",
+      "name": "디펜드 맘스베이비 위생매트 40 x 60 cm 40p, 1개, 하얀색",
+      "price": 15600,
+      "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/04/10/5/3dabfc33-5299-44c9-9c5c-a8457681c3fa.png",
+      "link": "https://link.coupang.com/a/iI5qFsXrZQ",
+      "date": "2026-11-16",
+      "category": "육아용품",
+      "tags": [
+        "위생매트",
+        "기저귀매트",
+        "외출"
       ]
     }
   ]
