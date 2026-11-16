@@ -84,6 +84,48 @@
         "기저귀매트",
         "외출"
       ]
+    },
+    {
+      "code": "P0007",
+      "name": "리빙스마일 포켓형 직사각 기저귀 정리함 일반형 2단, 화이트, 1개",
+      "price": 19500,
+      "image": "https://t1a.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/56780525381263-1292ab8c-3c4d-4c14-bcc2-2cf62f19f718.jpg",
+      "link": "https://link.coupang.com/a/iI7gPiy1Fk",
+      "date": "2026-11-16",
+      "category": "육아용품",
+      "tags": [
+        "기저귀정리함",
+        "아기방",
+        "수납"
+      ]
+    },
+    {
+      "code": "P0008",
+      "name": "무이담 속옷 양말 턱받이 정리함, 1개, 투명",
+      "price": 12450,
+      "image": "https://t4c.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/04cb/7887816e8eb4ed905abed1d275e3ef870f8cf55787739cabf2097a1abc44.png",
+      "link": "https://link.coupang.com/a/iI7hUeuxky",
+      "date": "2026-11-16",
+      "category": "육아용품",
+      "tags": [
+        "턱받이정리",
+        "양말정리함",
+        "수납"
+      ]
+    },
+    {
+      "code": "P0009",
+      "name": "벨베이비 TPU 투명 사각 장난감 정리함, 1개, 크림베이지",
+      "price": 13000,
+      "image": "https://t4a.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a2da/e8bfb015df81fcf388f8f2c43428b7adaa22e09f65afdf2bef48df2ec0f9.png",
+      "link": "https://link.coupang.com/a/iI7fNAs7zw",
+      "date": "2026-11-16",
+      "category": "육아용품",
+      "tags": [
+        "장난감정리함",
+        "아기방",
+        "수납"
+      ]
     }
   ]
 }
