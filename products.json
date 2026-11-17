@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "items": [
     {
       "code": "P0001",
@@ -125,6 +125,48 @@
         "장난감정리함",
         "아기방",
         "수납"
+      ]
+    },
+    {
+      "code": "P0010",
+      "name": "디어커스 길이조절 피니셔 스퀴지, 샌드베이지, 1개",
+      "price": 17900,
+      "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2026/05/12/16/1/a7aecc38-dd21-426d-8c45-a83db8a2db43.jpg",
+      "link": "https://link.coupang.com/a/iKKj5RuJUH",
+      "date": "2026-11-17",
+      "category": "욕실",
+      "tags": [
+        "스퀴지",
+        "물기제거",
+        "욕실청소"
+      ]
+    },
+    {
+      "code": "P0011",
+      "name": "리빙베이 하수구 배수구 거름망 화장실, 20개",
+      "price": 5000,
+      "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/a855/97d85f55f8d2d0f052569fbe2ecd3cf34854acc28d92281cfc670499a78d.png",
+      "link": "https://link.coupang.com/a/iKKp8T89dI",
+      "date": "2026-11-17",
+      "category": "욕실",
+      "tags": [
+        "배수구거름망",
+        "하수구",
+        "욕실"
+      ]
+    },
+    {
+      "code": "P0012",
+      "name": "코멧 국내생산 롱 스탠드 바닥솔, 혼합색상, 1개",
+      "price": 7740,
+      "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/268164844929722-78db9425-d695-4686-b632-2212383a1b24.jpg",
+      "link": "https://link.coupang.com/a/iKKlV8hr3c",
+      "date": "2026-11-17",
+      "category": "욕실",
+      "tags": [
+        "바닥솔",
+        "욕실청소솔",
+        "청소도구"
       ]
     }
   ]
