@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "items": [
     {
       "code": "P0001",
@@ -167,6 +167,48 @@
         "바닥솔",
         "욕실청소솔",
         "청소도구"
+      ]
+    },
+    {
+      "code": "P0013",
+      "name": "히트키퍼 프리미엄 신소재 20m 대용량 문풍지, 1개, 화이트",
+      "price": 19900,
+      "image": "https://t3a.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/bf9a/33d70101599abac0dc64aed0c9e28c29a608275dbb22dd0f3d8f6a9b781d.png",
+      "link": "https://link.coupang.com/a/iMpisJz3VA",
+      "date": "2026-11-18",
+      "category": "오늘의 트렌드",
+      "tags": [
+        "문풍지",
+        "외풍차단",
+        "방한"
+      ]
+    },
+    {
+      "code": "P0014",
+      "name": "허넬리 흘러내림 걱정 덜어주는 똑딱이 망토형 담요 극세사 어깨 무릎 담요",
+      "price": 17700,
+      "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/3ef6/4b6811cd676b00717ccaf6eda61122f16d490ce353644ef4b4af8dcc7eae.png",
+      "link": "https://link.coupang.com/a/iMpjdxrqE0",
+      "date": "2026-11-18",
+      "category": "오늘의 트렌드",
+      "tags": [
+        "담요",
+        "망토담요",
+        "무릎담요"
+      ]
+    },
+    {
+      "code": "P0015",
+      "name": "이지하임 4켤레 털빠짐없는 편안한 무압박 남녀공용 수면양말 세트",
+      "price": 8700,
+      "image": "https://t4c.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/180d/4655c26dc8f95c573cfed1a50f2808fd81fed501c07d4271edf4c647dba6.png",
+      "link": "https://link.coupang.com/a/iMpjXWzA4W",
+      "date": "2026-11-18",
+      "category": "오늘의 트렌드",
+      "tags": [
+        "수면양말",
+        "겨울양말",
+        "방한"
       ]
     }
   ]
