@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "items": [
     {
       "code": "P0001",
@@ -209,6 +209,48 @@
         "수면양말",
         "겨울양말",
         "방한"
+      ]
+    },
+    {
+      "code": "P0016",
+      "name": "홈플래닛 접이식 휴대용 알루미늄 노트북 거치대 (휴대용 파우치 포함), 메탈릭 그레이, 1개",
+      "price": 9990,
+      "image": "https://t1a.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/6850755517283728-85c67df6-2eb0-46d3-8c72-742392d7b449.png",
+      "link": "https://link.coupang.com/a/iN4bmC0Pkq",
+      "date": "2026-11-19",
+      "category": "디지털·데스크",
+      "tags": [
+        "노트북거치대",
+        "접이식",
+        "휴대용"
+      ]
+    },
+    {
+      "code": "P0017",
+      "name": "엔더 잘붙는 전선정리 고정 클립, 30개, 투명",
+      "price": 3900,
+      "image": "https://t1c.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/2025/06/16/17/3/1f2e9a33-d393-4585-bcaf-a104687884a0.jpg",
+      "link": "https://link.coupang.com/a/iN4frlYatM",
+      "date": "2026-11-19",
+      "category": "디지털·데스크",
+      "tags": [
+        "선정리",
+        "케이블클립",
+        "전선정리"
+      ]
+    },
+    {
+      "code": "P0018",
+      "name": "넥시 멀티탭 정리 보관함 대형 NX1015, 1개, 화이트",
+      "price": 10300,
+      "image": "https://t5a.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/753667575426260-5ecce7c7-e896-41dc-8e1f-1c93bf6410fe.jpg",
+      "link": "https://link.coupang.com/a/iN39cr3aeW",
+      "date": "2026-11-19",
+      "category": "디지털·데스크",
+      "tags": [
+        "멀티탭정리함",
+        "선정리",
+        "책상정리"
       ]
     }
   ]
