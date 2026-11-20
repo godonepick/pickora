@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "items": [
     {
       "code": "P0001",
@@ -251,6 +251,48 @@
         "멀티탭정리함",
         "선정리",
         "책상정리"
+      ]
+    },
+    {
+      "code": "P0019",
+      "name": "마더스홈 무형광 2중 세탁망 6종 세트, 혼합색상, 1세트",
+      "price": 9800,
+      "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/1987/8e8aca54e1e2ecc2210fd24439336ea960f7a16e5572706e535ee000ca12.jpg",
+      "link": "https://link.coupang.com/a/iPIWZFS7qe",
+      "date": "2026-11-20",
+      "category": "생활·살림",
+      "tags": [
+        "세탁망",
+        "빨래망",
+        "세탁용품"
+      ]
+    },
+    {
+      "code": "P0020",
+      "name": "코지스 이지런드리 세탁바구니 접이식 대용량 빨래바구니, 그레이",
+      "price": 17210,
+      "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/c56c/22b788f7f7fb08a55762f103366f8d73dfc3c001591922e5d74ee51aaf40.jpg",
+      "link": "https://link.coupang.com/a/iPIYoJlFK0",
+      "date": "2026-11-20",
+      "category": "생활·살림",
+      "tags": [
+        "빨래바구니",
+        "접이식",
+        "세탁바구니"
+      ]
+    },
+    {
+      "code": "P0021",
+      "name": "라이복 슬림 양말 속옷공간 활용 집게 미니 건조대, 화이트",
+      "price": 9000,
+      "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7af0/b1e98317a981823a45010c7822857acd70cc07a4670bb14a37e34782c750.png",
+      "link": "https://link.coupang.com/a/iPIZMJppam",
+      "date": "2026-11-20",
+      "category": "생활·살림",
+      "tags": [
+        "빨래건조대",
+        "집게건조대",
+        "양말건조대"
       ]
     }
   ]
