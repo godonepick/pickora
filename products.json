@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "items": [
     {
       "code": "P0001",
@@ -293,6 +293,48 @@
         "빨래건조대",
         "집게건조대",
         "양말건조대"
+      ]
+    },
+    {
+      "code": "P0022",
+      "name": "[동해] 동해보양온천컨벤션호텔★기간한정특가★와우회원 추가 할인중★",
+      "price": 67540,
+      "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/travel_reactor/travelSeller/hotel/A00020516/2be9f73c-9614-4cbc-9d18-80ebe81ca381.jpg",
+      "link": "https://link.coupang.com/a/iRnl2kmUcm",
+      "date": "2026-11-21",
+      "category": "여행·호텔",
+      "tags": [
+        "동해여행",
+        "온천호텔",
+        "강원도숙소"
+      ]
+    },
+    {
+      "code": "P0023",
+      "name": "[용인] 로만바스 평일 온천 이용권(~2026.12.31)",
+      "price": 12000,
+      "image": "https://t3a.coupangcdn.com/thumbnails/remote/492x492ex/image/travel_reactor/travelSeller/common/A01294621/2b6f2902-3dd3-4c72-9ee1-73ea9432111e.png",
+      "link": "https://link.coupang.com/a/iRnnj0Eyc0",
+      "date": "2026-11-21",
+      "category": "여행·호텔",
+      "tags": [
+        "용인온천",
+        "온천이용권",
+        "평일나들이"
+      ]
+    },
+    {
+      "code": "P0024",
+      "name": "[충남] 스플라스 리솜 온천 워터파크 (~12.17)/국내온천여행/리솜리조트/덕산온천",
+      "price": 27800,
+      "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/492x492ex/image/travel_reactor/travelSeller/common/A00221268/8bd01d7c-5dda-4358-82ac-1cbe9d677d4a.jpg",
+      "link": "https://link.coupang.com/a/iRnoDvetvo",
+      "date": "2026-11-21",
+      "category": "여행·호텔",
+      "tags": [
+        "덕산온천",
+        "온천워터파크",
+        "아이와여행"
       ]
     }
   ]
