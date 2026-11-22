@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "items": [
     {
       "code": "P0001",
@@ -335,6 +335,48 @@
         "덕산온천",
         "온천워터파크",
         "아이와여행"
+      ]
+    },
+    {
+      "code": "P0025",
+      "name": "헤인느 올스텐 자동 물빠짐 수세미 거치대, 1개, 스텐",
+      "price": 8800,
+      "image": "https://t3c.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/e38f/d9ec70a7de16aa4a7f502f37e906539dd0537b4d2237ee32d13773c644cf.png",
+      "link": "https://link.coupang.com/a/iS2LT73ZRY",
+      "date": "2026-11-22",
+      "category": "주방",
+      "tags": [
+        "수세미거치대",
+        "싱크대정리",
+        "주방정리"
+      ]
+    },
+    {
+      "code": "P0026",
+      "name": "팬앤팟 길이조절 슬라이딩 후라이팬 정리대 냄비 접시 그릇 수납 확장형 스테인레스 선반, 블랙&그레이 X 1개, 1개",
+      "price": 12250,
+      "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/b4bd/72a42f74ab3e73d649e9d165a732e1aea408119095abfb661ba7d01fc9fc.png",
+      "link": "https://link.coupang.com/a/iS2NhW3zZA",
+      "date": "2026-11-22",
+      "category": "주방",
+      "tags": [
+        "후라이팬정리대",
+        "하부장정리",
+        "냄비정리"
+      ]
+    },
+    {
+      "code": "P0027",
+      "name": "2단공간 분리세척 높은 주방 조미료 정리함, 1개, 화이트",
+      "price": 14900,
+      "image": "https://t5c.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/670b/385cd4fab9ed259e2cdb49e965a075ae41ccc5e8d5a72b5ff9c513394f46.png",
+      "link": "https://link.coupang.com/a/iS2OCKd5wG",
+      "date": "2026-11-22",
+      "category": "주방",
+      "tags": [
+        "양념통정리",
+        "조미료정리함",
+        "주방선반"
       ]
     }
   ]
