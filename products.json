@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "items": [
     {
       "code": "P0001",
@@ -377,6 +377,48 @@
         "양념통정리",
         "조미료정리함",
         "주방선반"
+      ]
+    },
+    {
+      "code": "P0028",
+      "name": "에뜨람 아기 목욕타올 샤워가운 수건 신생아 순면 베이비 후드 비치 KC인증상품, 베어 화이트_목욕타올, 1개",
+      "price": 9500,
+      "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/stage/manual/f431c2deb6e1bb614502cb46b86ce6e9d859619c3684a6417ea3c1e0bf87_1765514683528.jpg",
+      "link": "https://link.coupang.com/a/iUHKzZTVzo",
+      "date": "2026-11-23",
+      "category": "육아용품",
+      "tags": [
+        "아기목욕타올",
+        "후드타올",
+        "목욕"
+      ]
+    },
+    {
+      "code": "P0029",
+      "name": "베냥미 걸이형 욕실 장난감 정리 그물망, 화이트, 2개",
+      "price": 10000,
+      "image": "https://t5a.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/930c6766-89f0-4230-84c8-3ad5b29567ee11623876341830072578.png",
+      "link": "https://link.coupang.com/a/iUHLJNE3rM",
+      "date": "2026-11-23",
+      "category": "육아용품",
+      "tags": [
+        "목욕장난감정리",
+        "욕실그물망",
+        "수납"
+      ]
+    },
+    {
+      "code": "P0030",
+      "name": "머머 베이비 퓨어 곤약스펀지 물방울 수분형, 2개",
+      "price": 8980,
+      "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/7166/49601971390b18fbe778939737829b0a83e59097dd2a818f98278ffa5bb1.jpg",
+      "link": "https://link.coupang.com/a/iUHMuueRJ6",
+      "date": "2026-11-23",
+      "category": "육아용품",
+      "tags": [
+        "곤약스펀지",
+        "아기목욕",
+        "목욕스펀지"
       ]
     }
   ]
