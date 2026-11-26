@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "items": [
     {
       "code": "P0001",
@@ -503,6 +503,48 @@
         "고무장갑",
         "김장",
         "주방"
+      ]
+    },
+    {
+      "code": "P0037",
+      "name": "라미콜 메탈 탁상용 높이조절 태블릿 스마트폰 거치대, 1개, 블랙",
+      "price": 14900,
+      "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/dca5/9f16b7170b522ca8f0ef8cf11d48d787dba3385dc7c5830a5055515ff01b.jpg",
+      "link": "https://link.coupang.com/a/iZGCfhTiZF",
+      "date": "2026-11-26",
+      "category": "디지털·데스크",
+      "tags": [
+        "휴대폰거치대",
+        "태블릿거치대",
+        "책상정리"
+      ]
+    },
+    {
+      "code": "P0038",
+      "name": "신지모루 트리플 3in1 멀티 충전 케이블, 블랙, 1개, 1.7m",
+      "price": 5400,
+      "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/548131007429716-5c0cabe8-1e3e-4797-936d-4f0074172920.jpg",
+      "link": "https://link.coupang.com/a/iZGCUOqRX2",
+      "date": "2026-11-26",
+      "category": "디지털·데스크",
+      "tags": [
+        "멀티케이블",
+        "충전케이블",
+        "3in1"
+      ]
+    },
+    {
+      "code": "P0039",
+      "name": "홈플래닛 3단 높이조절 모니터 받침대",
+      "price": 9390,
+      "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/5984200562950508-40bb86c9-a040-4fec-af2a-1d5fc940b289.jpg",
+      "link": "https://link.coupang.com/a/iZGDAF7Dsy",
+      "date": "2026-11-26",
+      "category": "디지털·데스크",
+      "tags": [
+        "모니터받침대",
+        "높이조절",
+        "책상정리"
       ]
     }
   ]
