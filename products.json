@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "items": [
     {
       "code": "P0001",
@@ -419,6 +419,48 @@
         "곤약스펀지",
         "아기목욕",
         "목욕스펀지"
+      ]
+    },
+    {
+      "code": "P0031",
+      "name": "디블릭 무타공 스테인리스 칫솔걸이, 1세트",
+      "price": 5100,
+      "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/17073514008375-3eb3a6fe-d023-44d8-ad66-6bb6f4530762.png",
+      "link": "https://link.coupang.com/a/iZGpSpHqo0",
+      "date": "2026-11-24",
+      "category": "욕실",
+      "tags": [
+        "칫솔걸이",
+        "무타공",
+        "욕실정리"
+      ]
+    },
+    {
+      "code": "P0032",
+      "name": "루메이크 무타공 스텐 화장실 휴지걸이, 실버, 1개",
+      "price": 5900,
+      "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/0310/77ab909464bc1bb86e2224208fff7959a79bd26c958d6e963a13707780dd.jpg",
+      "link": "https://link.coupang.com/a/iZGqyaq8Fo",
+      "date": "2026-11-24",
+      "category": "욕실",
+      "tags": [
+        "휴지걸이",
+        "무타공",
+        "화장실"
+      ]
+    },
+    {
+      "code": "P0033",
+      "name": "라핀다 무타공 강력접착 샤워기 거치대 1개",
+      "price": 10900,
+      "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/86a8/a1d8d597d1907474d80271de37a367e554fae4aea82d2433c9576f5f8f31.jpg",
+      "link": "https://link.coupang.com/a/iZGrdFQi7w",
+      "date": "2026-11-24",
+      "category": "욕실",
+      "tags": [
+        "샤워기거치대",
+        "무타공",
+        "욕실"
       ]
     }
   ]
