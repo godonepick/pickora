@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "items": [
     {
       "code": "P0001",
@@ -461,6 +461,48 @@
         "샤워기거치대",
         "무타공",
         "욕실"
+      ]
+    },
+    {
+      "code": "P0034",
+      "name": "깨끗한데이 국산 스마일 무봉제 다용도 김장매트, 120cm x 15cm, 1개",
+      "price": 10080,
+      "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/9ef5/1f7d33e8d09d28f839a9b26d1383033ee269cb3c1bf6fea91d634591eb5c.jpg",
+      "link": "https://link.coupang.com/a/iZGAeiQzka",
+      "date": "2026-11-25",
+      "category": "오늘의 트렌드",
+      "tags": [
+        "김장매트",
+        "김장",
+        "무봉제"
+      ]
+    },
+    {
+      "code": "P0035",
+      "name": "EZn이지엔 김장봉투 대형, 1개, 10개입, 대형(약15포기)",
+      "price": 8990,
+      "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/44399182529007-aeffc46e-91fe-418e-9aad-fe7db278305b.jpg",
+      "link": "https://link.coupang.com/a/iZGAUhlWQ8",
+      "date": "2026-11-25",
+      "category": "오늘의 트렌드",
+      "tags": [
+        "김장봉투",
+        "김장비닐",
+        "김장"
+      ]
+    },
+    {
+      "code": "P0036",
+      "name": "마미손 고무장갑, 빨강, 대(L), 3개",
+      "price": 6100,
+      "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/4328952002900233-0943641e-0322-40ea-9337-427061950198.jpg",
+      "link": "https://link.coupang.com/a/iZGBzCoQoe",
+      "date": "2026-11-25",
+      "category": "오늘의 트렌드",
+      "tags": [
+        "고무장갑",
+        "김장",
+        "주방"
       ]
     }
   ]
