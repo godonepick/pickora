@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "items": [
     {
       "code": "P0001",
@@ -545,6 +545,48 @@
         "모니터받침대",
         "높이조절",
         "책상정리"
+      ]
+    },
+    {
+      "code": "P0040",
+      "name": "코멧 홈 어깨 뿔 방지 논슬립 옷걸이, 그레이, 30개",
+      "price": 15990,
+      "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/61632347545112-f0d7f24d-0974-4d7b-86c9-88cb2ebaba59.jpg",
+      "link": "https://link.coupang.com/a/i1lhEe0U2u",
+      "date": "2026-11-27",
+      "category": "생활·살림",
+      "tags": [
+        "옷걸이",
+        "논슬립옷걸이",
+        "옷장정리"
+      ]
+    },
+    {
+      "code": "P0041",
+      "name": "코지앤코 이불 압축 파우치 압축팩 2.0 차콜그레이, 1개, XXL_차콜그레이, 1개입",
+      "price": 21000,
+      "image": "https://t4c.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/image_audit/prod/2dcc4ffd-cc7a-4fa0-ad86-8d7d46088027_fixing_v2.png",
+      "link": "https://link.coupang.com/a/i1li3JZeWy",
+      "date": "2026-11-27",
+      "category": "생활·살림",
+      "tags": [
+        "이불압축팩",
+        "이불정리",
+        "압축파우치"
+      ]
+    },
+    {
+      "code": "P0042",
+      "name": "보노하우스 풀 슬라이딩 옷정리 적층 트레이 중형, 10개",
+      "price": 19900,
+      "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/492x492ex/image/retail/images/510724699272867-81242394-dba8-4b09-88ab-bc1ec856e7c2.jpg",
+      "link": "https://link.coupang.com/a/i1lkoZhw3E",
+      "date": "2026-11-27",
+      "category": "생활·살림",
+      "tags": [
+        "옷정리트레이",
+        "옷장수납",
+        "니트정리"
       ]
     }
   ]
